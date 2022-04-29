@@ -33,3 +33,5 @@ temp
 # IDE files
 .idea
 *.iml
+.tool-versions
+package-lock.json
